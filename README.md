@@ -15,7 +15,7 @@
 - Does it really make sense to spend $200 on a top? No. Do I still want it? Yes!
 
 ### Everdrive GBA Mini
-![](./xmas-list-images/everdrive-gba-x5-mini-graphite.png =x250)
+![](./xmas-list-images/everdrive-gba-x5-mini-graphite.png)
 ##### Lets me play every GameBoy Advance game there is
 - <https://everdrive.me/cartridges/everdrive-gba-x5-mini.html>
 - I already have the old version of this, which sticks out from the top. This one is flush!
