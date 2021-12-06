@@ -1,5 +1,12 @@
 # Trevor's 2021 Birthday / Christmas List
 
+### Bone folders
+![](xmas-list-images/Bone_Folder_7inch_tapered.png)
+![](xmas-list-images/Bone_Folder_8inch_pointed.png)
+##### Paper folding tools made of genuine bone
+- like $7 each
+- <https://www.talasonline.com/Bone-Folders?quantity=1&number=354&length=44>>
+
 ### Apple Magic Mouse Space Gray
 ![](./xmas-list-images/magic_mouse_space_gray.jpg "photo of Apple Magic Mouse Space Gray")
 
